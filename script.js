@@ -106,7 +106,6 @@ document.onpointerdown = function (e) {
 
   return false;
 };
-
 document.onmousewheel = function(e) {
   e = e || window.event;
   var d = e.wheelDelta / 20 || -e.detail;
