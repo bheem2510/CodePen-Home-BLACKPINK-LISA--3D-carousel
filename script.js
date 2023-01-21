@@ -8,8 +8,6 @@ var imgHeight = 170; // height of images (unit: px)
 var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
 var bgMusicControls = true; // Show UI music control
 
-
-
 // ===================== start =======================
 // animation start after 1000 miliseconds
 setTimeout(init, 1000);
